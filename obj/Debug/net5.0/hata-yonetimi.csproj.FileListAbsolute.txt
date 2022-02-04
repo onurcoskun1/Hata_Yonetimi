@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.exe
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.dll
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.dll
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\Poseidon\Desktop\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.genruntimeconfig.cache
